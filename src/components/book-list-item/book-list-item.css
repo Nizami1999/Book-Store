@@ -1,0 +1,22 @@
+.book-list-item .book-list-item-img {
+  width: 180px;
+  height: 180px;
+  margin-right: 20px;
+}
+.book-list-item .book-list-item-img img {
+  object-fit: contain;
+  height: 100%;
+  width: 100%;
+}
+.book-list-item .book-details .book-name {
+  font-weight: bold;
+  font-size: 22px;
+}
+.book-list-item .book-details .book-author {
+  color: rgb(53, 53, 53);
+  font-size: 14px;
+}
+.book-list-item .book-details .book-price {
+  color: #222;
+  font-size: 25px;
+}

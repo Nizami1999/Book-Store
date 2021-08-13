@@ -1,0 +1,27 @@
+#order-table {
+  margin-top: 20px;
+}
+#order-table button {
+  margin: 0 5px;
+  margin-left: auto;
+  height: 40px;
+  width: 40px;
+}
+@media screen and (max-width: 420px) {
+  #order-table button {
+    margin-bottom: 5px;
+  }
+  #order-table button:last-child {
+    margin-bottom: 0;
+  }
+}
+
+table {
+  width: 100% !important;
+}
+table th:last-child {
+  text-align: right;
+}
+table tbody td:last-child {
+  text-align: right;
+}

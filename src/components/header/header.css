@@ -1,0 +1,9 @@
+#header .logo {
+  font-size: 33px;
+}
+#header .details {
+  margin-left: auto;
+}
+#header .details .items {
+  margin-right: 5px;
+}
